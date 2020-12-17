@@ -8,7 +8,7 @@
 
 ### Links and Resources
 
-- [ci/cd]() (GitHub Actions)
+- [ci/cd](https://github.com/401-advanced-javascript-ricardo-b/auth-api/actions) (GitHub Actions)
 - [Heroku Production Deployment](https://ricardob-auth-api.herokuapp.com/)
 - [Pull request](https://github.com/401-advanced-javascript-ricardo-b/auth-api/pull/1)
 
