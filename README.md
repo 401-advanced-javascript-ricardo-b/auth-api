@@ -38,4 +38,4 @@
 
 #### UML
 
-![UML](assets/bearerauth.png)
+![UML](./assets/bearerauth.png)
