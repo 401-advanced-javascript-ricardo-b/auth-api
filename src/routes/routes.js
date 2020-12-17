@@ -12,7 +12,7 @@ authRouter.post('/signup', async (req, res, next) => {
   try {
     let user = new User(req.body);
     const userRecord = await user.save();
-    console.log('user:', user)
+    // console.log('user:', user)
     const output = {
       user: userRecord,
       token: userRecord.token
@@ -31,7 +31,7 @@ authRouter.post('/signin', basicAuth, (req, res, next) => {
     };
     res.status(200).json(user);
   }catch (e){
-    
+
   }
 });
 
